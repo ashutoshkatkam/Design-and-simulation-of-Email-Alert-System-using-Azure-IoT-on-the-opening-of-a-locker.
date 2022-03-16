@@ -1,0 +1,22 @@
+{
+    "@id": "dtmi:presenceMonitor:Present_or_Not_62;1",
+    "@type": "Interface",
+    "contents": [
+        {
+            "@id": "dtmi:presenceMonitor:Present_or_Not_62:open;1",
+            "@type": "Telemetry",
+            "displayName": {
+                "en": "open"
+            },
+            "name": "open",
+            "schema": "boolean"
+        }
+    ],
+    "displayName": {
+        "en": "Present_or_Not"
+    },
+    "@context": [
+        "dtmi:iotcentral:context;2",
+        "dtmi:dtdl:context;2"
+    ]
+}
