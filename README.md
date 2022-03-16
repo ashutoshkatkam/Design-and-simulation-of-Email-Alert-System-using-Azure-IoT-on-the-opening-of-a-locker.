@@ -13,3 +13,5 @@ Conclusion:
 I have successfully created and simulated a locker alert system using Azure IoT central service.
 Future Scope:
 This project in the future can be attached with several other azure cognitive services to capture the image of the person opening the locker and alert only if the person is not authorized.
+
+Youtube Video Link: https://youtu.be/2sC3O0ofpNU
